@@ -1,0 +1,3 @@
+// all that have .txt will be ignore 
+
+*.txt
